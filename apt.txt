@@ -1,0 +1,5 @@
+gnuplot
+ghostscript
+octave
+octave-control
+octave-signal
